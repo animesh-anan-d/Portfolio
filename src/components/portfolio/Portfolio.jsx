@@ -18,7 +18,7 @@ const Portfolio = () => {
       description:
         "Its a dynamic personal portfolio website to showcase my skills, projects, and accomplishments in a visually appealing and informative manner.",
      
-      github: "https://github.com/Rasif-Taghizada/Educational-Website-ReactJs",
+      github: "https://github.com/animesh-anan-d/Portfolio",
     },
     {
       id: 2,
